@@ -1,0 +1,16 @@
+1. git --version
+
+2. git
+
+3. git config
+
+4. git init
+                         
+5. git add . 
+ 
+6. git status
+
+7. git config --global user.email "chen@hypervisualai.com"
+    git config --global user.name "HypervisualAI-XianyaoChen"
+	
+8. git commit -m "initial commit"   
